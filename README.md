@@ -2,7 +2,7 @@
 
 An interactive, single-file **Web GIS dashboard** that visualizes the administrative block boundaries of **Haridwar district, Uttarakhand** 🏔️ — with a clickable map, area rankings, and a sortable attribute table.
 
-🌐 **Live Demo:** [Haridwar-block-boundary.netlify.app](https://Haridwar-block-boundary.netlify.app/)
+🌐 **Live Demo:** [Haridwar-block-boundary.vercel.app](https://dashboard-haridwar-blocks.vercel.app/))
 
 ---
 
